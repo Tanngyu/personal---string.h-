@@ -1,0 +1,4 @@
+﻿  string_h.cpp
+C:\Learning\c\cpp items\string_h\string.h(83): warning C4715: “strcmp”: 不是所有的控件路径都返回值
+C:\Learning\c\cpp items\string_h\string.h(99): warning C4715: “strncmp”: 不是所有的控件路径都返回值
+  string_h.vcxproj -> C:\Learning\c\cpp items\string_h\x64\Debug\string_h.exe
